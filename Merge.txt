@@ -1,0 +1,4 @@
+Merge is one of the operation in git let us assume we have two branch one masterbranch and second one lets say firstbranch 
+
+now if we have made some changes in firstbranch then at last we have to merge firstbranch with master branch to merge it we can use git merge command
+ 
