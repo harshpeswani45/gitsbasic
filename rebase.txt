@@ -1,0 +1,2 @@
+Rebase is similar to merge command it also merges two branches with only a slight difference merge also preserves history of previous branch but rebase do not preserve the 
+history of previous branches
