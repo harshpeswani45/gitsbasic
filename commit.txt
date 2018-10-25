@@ -1,0 +1,5 @@
+Git commit is command to transfer our data from workspace to stash or index to save our modified changes or untracked files
+
+syntax is git commit -m "Some Message"
+
+message is compulsary
