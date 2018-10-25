@@ -1,0 +1,4 @@
+Stash is also called  index if we use commit then our data goes from workspace to index
+or stash Often, when you’ve been working on part of your project  and you want to switch branches for a bit to work on something else. The problem is, you don’t want to do a commit of half-done work just so you can get back to this point later.
+
+then we can use stash command to save our half done changes and then we can use git apply command for completing our work
