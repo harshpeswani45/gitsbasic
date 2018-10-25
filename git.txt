@@ -1,0 +1,7 @@
+GIT is an open source and distributed version control system which has local repo and remote repo 
+
+distributed version control system helps to work offline
+
+basically git is a tool which helps us(developers) to perform push pull and many other operation 
+
+github is where we store our data in remote repo and we can also decide access control through github
