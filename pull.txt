@@ -1,0 +1,11 @@
+Pull is the command to transfer the data from remote or central repo  to local repo
+pull consist of two commands first is get fetch and the other one is get merge
+
+that is pull first fetch the data and then automatically merge them with local repo
+
+pull with rebase is used when your changes do not deserve a separate branch
+
+Syntax is git pull --rebase
+
+pull =fetch+merge
+pull --rebase=fetch+rebase
