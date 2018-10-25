@@ -2,4 +2,3 @@ Git commit is command to transfer our data from workspace to stash or index to s
 
 syntax is git commit -m "Some Message"
 
-message is compulsary
